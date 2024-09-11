@@ -8,3 +8,8 @@ Pridat verzie pythonu
 Pridat verzie chromedriveru a chromiumu.
 Pridat navod na upload cez S3 - nezabudnite vymazat bucket S3 - ulozene to bude v lambde
 Test cez examples
+
+
+chromedriver and healdess chrome version - 86.0.4240.111
+python versions -
+selenium version - 4.23.1 !!!!!!!!
