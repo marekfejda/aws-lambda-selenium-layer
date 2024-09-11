@@ -18,3 +18,6 @@ selenium version - 4.31.1
 Sources:
 serverless-chrome: https://github.com/adieuadieu/serverless-chrome v1.0.0-57 \
 built-on: https://github.com/diegoparrilla/headless-chrome-aws-lambda-layer 
+
+
+SPOMENUT ZE TO OSTANE NA FREE TIER
