@@ -10,6 +10,6 @@ Pridat navod na upload cez S3 - nezabudnite vymazat bucket S3 - ulozene to bude 
 Test cez examples
 
 
-chromedriver and healdess chrome version - 86.0.4240.111
-python versions -
+chromedriver and healdess chrome version - 86.0.4240.111 \
+python versions - \
 selenium version - 4.23.1 !!!!!!!!
