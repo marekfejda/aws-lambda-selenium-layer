@@ -1,5 +1,5 @@
 # aws-lambda-selenium-layer
-Precompiled layer of SELENIUM for python headless enviroments in AWS LAMBDA. Supports python 3.8 / 3.11. 
+Precompiled layer of SELENIUM for python headless enviroments in AWS LAMBDA. 
 
 Pridat navod na upload cez S3 - nezabudnite vymazat bucket S3 - ulozene to bude v lambde \
 Test cez examples 
