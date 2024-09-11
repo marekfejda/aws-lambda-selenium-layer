@@ -8,11 +8,11 @@ Test cez examples
 
 
 chromedriver and healdess chrome version - 86.0.4240.111 \
-python versions - 3.8   NO
-                  3.9   YES
-                  3.10  YES
-                  3.11  YES
-                  3.12  NO
+python versions - 3.8   NO \
+                  3.9   YES \
+                  3.10  YES \
+                  3.11  YES \
+                  3.12  NO \
 selenium version - 4.23.1 !!!!!!!! \
 
 
